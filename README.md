@@ -7,6 +7,8 @@ The script basically switches to Workbench Flat Shading in the Background, makes
 
 To assign a class, you have to add a **Custom Property** to the object with the name **class** and an *Integer Value that corresponds to the class id*
 
+Then run the following python script inside Blender:
+
 ```python
 # I have troubles with importing modules while using the VSCode Blender extension
 import sys,os
