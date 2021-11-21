@@ -40,4 +40,4 @@ b2c.scene_to_coco_file(width, height, frames, categories, output_path)
 
 ### That's how it looks if you use the COCO viewer
 
-![Result of running the Coco2Blend script - Rectangular frames around two objects in blender](screenshot-coco.png "Screenshot of the Result")
+![Result of running the Coco2Blend script - Rectangular frames around two objects in blender](doc/screenshot-coco.png "Screenshot of the Result")
