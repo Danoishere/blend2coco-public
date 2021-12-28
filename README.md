@@ -34,7 +34,7 @@ categories = [{
             "name": "monkey"
         }]
 
-# Each frame corresponds in one output image
+# Each frame corresponds to one output image
 frames = list(range(1, 6))
 b2c.scene_to_coco_file(width, height, frames, categories, output_path)
 
